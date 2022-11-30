@@ -1,0 +1,15 @@
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\bin\Debug\net6.0\Semminar001.exe
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\bin\Debug\net6.0\Semminar001.deps.json
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\bin\Debug\net6.0\Semminar001.runtimeconfig.json
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\bin\Debug\net6.0\Semminar001.dll
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\bin\Debug\net6.0\Semminar001.pdb
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\obj\Debug\net6.0\Semminar001.csproj.AssemblyReference.cache
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\obj\Debug\net6.0\Semminar001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\obj\Debug\net6.0\Semminar001.AssemblyInfoInputs.cache
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\obj\Debug\net6.0\Semminar001.AssemblyInfo.cs
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\obj\Debug\net6.0\Semminar001.csproj.CoreCompileInputs.cache
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\obj\Debug\net6.0\Semminar001.dll
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\obj\Debug\net6.0\refint\Semminar001.dll
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\obj\Debug\net6.0\Semminar001.pdb
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\obj\Debug\net6.0\Semminar001.genruntimeconfig.cache
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar001\obj\Debug\net6.0\ref\Semminar001.dll
