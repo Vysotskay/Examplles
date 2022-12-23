@@ -1,0 +1,15 @@
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\bin\Debug\net6.0\Semminar004_Zadacha4.exe
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\bin\Debug\net6.0\Semminar004_Zadacha4.deps.json
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\bin\Debug\net6.0\Semminar004_Zadacha4.runtimeconfig.json
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\bin\Debug\net6.0\Semminar004_Zadacha4.dll
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\bin\Debug\net6.0\Semminar004_Zadacha4.pdb
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\obj\Debug\net6.0\Semminar004_Zadacha4.csproj.AssemblyReference.cache
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\obj\Debug\net6.0\Semminar004_Zadacha4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\obj\Debug\net6.0\Semminar004_Zadacha4.AssemblyInfoInputs.cache
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\obj\Debug\net6.0\Semminar004_Zadacha4.AssemblyInfo.cs
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\obj\Debug\net6.0\Semminar004_Zadacha4.csproj.CoreCompileInputs.cache
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\obj\Debug\net6.0\Semminar004_Zadacha4.dll
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\obj\Debug\net6.0\refint\Semminar004_Zadacha4.dll
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\obj\Debug\net6.0\Semminar004_Zadacha4.pdb
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\obj\Debug\net6.0\Semminar004_Zadacha4.genruntimeconfig.cache
+C:\Users\Olala\Documents\GitHub\Examplles\Semminar004_Zadacha4\obj\Debug\net6.0\ref\Semminar004_Zadacha4.dll
